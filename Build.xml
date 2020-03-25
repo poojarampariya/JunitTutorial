@@ -52,7 +52,7 @@
 			<test name="TestDataBase" todir="reports"></test>
 			<test name="TestError" todir="reports"></test>
 			<test name="TestJunit" todir="reports"></test> -->
-			<formatter type="xml"/>
+			<formatter type="plain"/>
 		</junit>
 	</target>
 
